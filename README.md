@@ -16,3 +16,12 @@ This project was created by (literaly) two broke college roomates, neither of wh
 The code with be sloppy. The diagrams will be rough. But in the end, we hope for a product that is both functional, and unapologetically DIY.
 
 All prototyping was done at 1819 Innovation Hub at the University of Cincinnati. Check it out! It is a really cool place!
+
+## Current Progress
+
+-[ ] Prototype with Slide Potentiometers and Interactions w/ MIDI
+-[ ] Integrate large scale interactions w/ Multiplexers
+-[ ] Rework for use with smaller scale electronics (Sparkfun Pro MIDI)
+-[ ] Design external enclosure/slide nobs
+-[ ] Assemble v0.1 on Protoboard and fit into enclosure
+-[ ] Release v0.1
