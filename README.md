@@ -19,9 +19,9 @@ All prototyping was done at 1819 Innovation Hub at the University of Cincinnati.
 
 ## Current Progress
 
--[] Prototype with Slide Potentiometers and Interactions w/ MIDI
--[] Integrate large scale interactions w/ Multiplexers
--[] Rework for use with smaller scale electronics (Sparkfun Pro MIDI)
--[] Design external enclosure/slide nobs
--[] Assemble v0.1 on Protoboard and fit into enclosure
--[] Release v0.1
+- [ ] Prototype with Slide Potentiometers and Interactions w/ MIDI
+- [ ] Integrate large scale interactions w/ Multiplexers
+- [ ] Rework for use with smaller scale electronics (Sparkfun Pro MIDI)
+- [ ] Design external enclosure/slide nobs
+- [ ] Assemble v0.1 on Protoboard and fit into enclosure
+- [ ] Release v0.1
